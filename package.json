@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-string-replace",
+  "version": "0.0.1",
+  "description": "Cordova Plugin to replace text in files",
+  "cordova": {
+    "id": "cordova-plugin-string-replace",
+    "platforms": []
+  },
+  "keywords": [
+    "cordova",
+    "configuration",
+    "ecosystem:cordova"
+  ],
+  "author": "SeeWhat",
+  "license": "MIT",
+  "dependencies": {
+    "replace": "0.3.0"
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+           id="cordova-plugin-string-replace"
+      version="0.0.1">
+
+    <name>Cordova String Replacement</name>
+    <description>Cordova Plugin to replace text in files</description>
+    <license>MIT</license>
+    <keywords>cordova,configuration,file,replace</keywords>
+
+    <hook src="updateFile.js" type="before_build" />
+</plugin>
